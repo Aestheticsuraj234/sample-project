@@ -28,6 +28,14 @@ function App() {
         >
           Count is {count}
         </button>
+
+         <button
+          type="button"
+          className="counter"
+          onClick={() => setCount((count) => count + 1)}
+        >
+          Count is {count}
+        </button>
       </section>
 
       <div className="ticks"></div>
