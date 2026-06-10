@@ -9,6 +9,9 @@ function App() {
 
   return (
     <>
+    <main id='center'>
+    hello i am main center text say hello to me
+    </main>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
