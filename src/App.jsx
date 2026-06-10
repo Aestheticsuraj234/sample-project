@@ -113,8 +113,7 @@ function App() {
         </div>
       </section>
 
-      <div className="ticks"></div>
-      <section id="spacer"></section>
+      <h1>Hello world from suraj</h1>
     </>
   )
 }
