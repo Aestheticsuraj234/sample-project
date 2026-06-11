@@ -32,6 +32,7 @@ function App() {
           Count is {count}
         </button>
 
+         <button
           <button
           type="button"
           className="counter"
