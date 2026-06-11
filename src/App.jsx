@@ -33,6 +33,7 @@ function App() {
         </button>
 
          <button
+          <button
           type="button"
           className="counter"
           onClick={() => setCount((count) => count + 1)}
